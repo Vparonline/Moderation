@@ -1,0 +1,61 @@
+{
+
+"YetkiliRolleri": {
+    "RegisterHammer": "",
+    "BanHammer": "",
+    "ChatMuteHammer": "",
+    "VoiceMuteHammer": "",
+    "JailHammer": ""
+},
+
+"LogKanallari": {
+    "VoiceLogID": "",
+    "TagLogID": "",
+    "BanLogID": "",  
+    "RegisterID": "",
+    "MuteLogID": "",
+	"YeniHesapID": "",
+    "JailLogID": ""
+},
+
+"Roller": {
+    "VipRolu": "",
+    "ErkekRol1": "",
+    "ErkekRol2": "",
+    "ErkekRol3": "",
+    "KadinRol1": "",
+    "KadinRol2": "",
+    "KadinRol3": "",
+    "UnregisterRol": "",
+    "BoosterRol": "", 
+    "JailRol": "", 
+    "MutedRol": "",
+    "BotsRol": "",
+    "FamilyRol": ""
+},
+  
+"GenelAyarlar": {
+    "setFooter": "Winnie",
+    "GenelChatID": "",
+    "BotSesKanali": "",
+	"BotDurum": "Winnie",
+    "GuildID": "",  
+    "token": "g",
+    "prefix": ".",
+    "Tag2": "•",
+    "Tag": ""
+},
+
+"Emojiler": {
+    "yes": "",
+    "no": "",
+    "erkek": "",
+    "kadin": ""
+},
+
+"Webhook": {
+    "WebhookID": "",
+    "WebhookToken": ""
+}
+
+}
