@@ -1,5 +1,5 @@
 BlaBlaBla Maziden Kalan Eski Altyapılarımız Fln Filan :D
-Umarım alıp ben yazdım,ben ettim diye ortalıkta gezinmessiniz sonuçta aptal botcu olmanında zor yollarıda varr neyse çok söze gerek yok kanka.
+Umarım alıp ben yazdım,ben ettim diye ortalıkta gezinmessiniz sonuçta aptal botcu olmanında zor yolları varr neyse çok söze gerek yok kanka.
 2 Sene Önceki Quick.DB ile yazmış olduğumuz Moderasyon Altyapımız Herhangi Bir Sıkıntısı Yoktur Alıp Kullanabilirsiniz.
 Winnie : https://github.com/winniecasty
 Elchavopy : https://github.com/Vparonline
